@@ -1,5 +1,11 @@
 # README
 
+Getting started with rails tutorial
+http://guides.rubyonrails.org/getting_started.html
+
+Creating a "blog" with various elements. CRUD, REST and MVC.
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
